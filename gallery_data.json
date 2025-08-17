@@ -3,42 +3,42 @@
     "src": "images/engagement.jpg",
     "category": "engagement",
     "caption": "Our engagement photo",
-    "date": null,
+    "date": "2025-05-02",
     "original_filename": "engagement.jpg"
   },
   {
     "src": "images/our_first_date.jpg",
     "category": "couple",
     "caption": "Our very first date",
-    "date": null,
+    "date": "2023-12-13",
     "original_filename": "our_first_date.jpg"
   },
   {
     "src": "images/suspension_bridge.jpg",
     "category": "couple",
     "caption": "Crossing the suspension bridge",
-    "date": null,
+    "date": "2024-11-05",
     "original_filename": "suspension_bridge.jpg"
   },
   {
     "src": "images/couple_33.jpg",
     "category": "couple",
-    "caption": "Adventure together",
-    "date": null,
+    "caption": "Adventure together - Capilano Suspension Bridge",
+    "date": "2024-11-05",
     "original_filename": "02868D9C-B199-4D61-9AE0-AB2A0632B192.jpg"
   },
   {
     "src": "images/couple_34.jpg",
     "category": "couple",
     "caption": "Sweet moments",
-    "date": null,
+    "date": "2024-11-11",
     "original_filename": "08C2B5C7-92D8-4ED2-BED1-17D9130E09B8.jpg"
   },
   {
     "src": "images/couple_36.jpg",
     "category": "couple",
-    "caption": "Exploring new places",
-    "date": null,
+    "caption": "Exploring new places - Capilano Suspension Bridge",
+    "date": "2024-11-05",
     "original_filename": "0B89D5D5-6F50-49F9-BC51-D829489B1388.jpg"
   },
   {
@@ -58,43 +58,36 @@
   {
     "src": "images/couple_53.jpg",
     "category": "couple",
-    "caption": "Making memories",
-    "date": null,
+    "caption": "Hello Kitty in Vancouver",
+    "date": "2024-11-24",
     "original_filename": "639F5D90-07B7-4AFC-BA54-2D70B3DC30A4.jpg"
   },
   {
     "src": "images/couple_54.jpg",
     "category": "couple",
-    "caption": "Fun times together",
-    "date": null,
+    "caption": "Fun times together @ MoPop in Seattle",
+    "date": "2024-11-10",
     "original_filename": "64804FF2-7957-477D-A0CF-EFFE9C56980F.jpg"
-  },
-  {
-    "src": "images/couple_56.jpg",
-    "category": "couple",
-    "caption": "Romantic moments",
-    "date": null,
-    "original_filename": "664233DA-1C16-4180-9838-2A91A1F06F7A.jpg"
   },
   {
     "src": "images/couple_61.jpg",
     "category": "couple",
-    "caption": "Travel adventures",
-    "date": null,
+    "caption": "Travel adventures - Capilano Suspension Bridge",
+    "date": "2024-11-05",
     "original_filename": "72F83B56-81D5-4DD1-A999-B629624AF343.jpg"
   },
   {
     "src": "images/couple_63.jpg",
     "category": "couple",
-    "caption": "Cozy moments",
-    "date": null,
+    "caption": "Cozy moments - Capilano Suspension Bridge",
+    "date": "2024-11-05",
     "original_filename": "810698B8-6CA2-4B04-9AC3-43ADD1D32452.jpg"
   },
   {
     "src": "images/couple_67.jpg",
     "category": "couple",
-    "caption": "Outdoor adventures",
-    "date": null,
+    "caption": "Outdoor adventures - Capilano Suspension Bridge",
+    "date": "2024-11-05",
     "original_filename": "8F7EF122-4A85-491D-B739-FDE338ABDED7.jpg"
   },
   {
@@ -105,52 +98,38 @@
     "original_filename": "9833DA46-AC9F-468A-9126-2571DCCB7DA9.jpg"
   },
   {
-    "src": "images/couple_70.jpg",
-    "category": "couple",
-    "caption": "Date night fun",
-    "date": null,
-    "original_filename": "9C7F663B-0629-4FFE-9929-859C0EDF27C5.jpg"
-  },
-  {
     "src": "images/couple_72.jpg",
     "category": "couple",
-    "caption": "Adventure time",
-    "date": null,
+    "caption": "Adventure time @ MoPop in Seattle",
+    "date": "2024-11-10",
     "original_filename": "A01CBFF2-AF2A-4ACE-B53E-78237CFEF2D9.jpg"
   },
   {
     "src": "images/couple_73.jpg",
     "category": "couple",
-    "caption": "Exploring together",
-    "date": null,
+    "caption": "Exploring together - Capilano Suspension Bridge",
+    "date": "2024-11-05",
     "original_filename": "ADD328D2-F23A-4D3E-98A5-BF7ED7D67915.jpg"
   },
   {
     "src": "images/couple_75.jpg",
     "category": "couple",
-    "caption": "Sweet memories",
-    "date": null,
+    "caption": "Sweet memories - Capilano Suspension Bridge",
+    "date": "2024-11-05",
     "original_filename": "B48C30FD-79E5-406F-9A5F-EF945C49E180.jpg"
   },
   {
     "src": "images/couple_78.jpg",
     "category": "couple",
-    "caption": "Fun adventures",
-    "date": null,
+    "caption": "Drinks at Hello Kitty in Vancover",
+    "date": "2024-11-24",
     "original_filename": "C47D97BC-877C-4F4E-8FFE-65A45066012B.jpg"
-  },
-  {
-    "src": "images/couple_79.jpg",
-    "category": "couple",
-    "caption": "Romantic evening",
-    "date": null,
-    "original_filename": "C7287073-1792-4C8C-BCFC-A0ADD4DCAE10.jpg"
   },
   {
     "src": "images/couple_94.jpg",
     "category": "couple",
-    "caption": "Special moments",
-    "date": null,
+    "caption": "Us at Hello Kitty in Vancouver",
+    "date": "2024-11-24",
     "original_filename": "FB7F6E6B-4929-4EDB-A77D-28FC8804B196.jpg"
   },
   {
@@ -163,8 +142,15 @@
   {
     "src": "images/dinner_date.jpg",
     "category": "couple",
-    "caption": "Date night dinner",
+    "caption": "One of our very first date night dinner",
     "date": "2024-01-20 20:35:08",
+    "original_filename": "dinner_date.jpg"
+  },
+  {
+    "src": "images/new_years_eve.jpg.jpg",
+    "category": "couple",
+    "caption": "Rib on our first New years Eve, when she really found out I can cook",
+    "date": "2023-12-31",
     "original_filename": "dinner_date.jpg"
   },
   {
@@ -191,14 +177,14 @@
   {
     "src": "images/flowers.jpg",
     "category": "couple",
-    "caption": "Beautiful flowers",
+    "caption": "Minneapolis flowers",
     "date": "2024-07-22 16:37:45",
     "original_filename": "flowers.jpg"
   },
   {
     "src": "images/welcome_to_iceland.jpg",
     "category": "couple",
-    "caption": "Welcome to Iceland!",
+    "caption": "Welcome to Iceland! A.K.A our Happy Place",
     "date": "2024-09-16 09:48:12",
     "original_filename": "welcome_to_iceland.jpg"
   },
@@ -212,7 +198,7 @@
   {
     "src": "images/us_together.jpg",
     "category": "couple",
-    "caption": "Just us together",
+    "caption": "Just us together in Iceland",
     "date": "2024-09-18 14:46:38",
     "original_filename": "us_together.jpg"
   },
@@ -352,21 +338,21 @@
   {
     "src": "images/swamp_boat.jpg",
     "category": "couple",
-    "caption": "Swamp boat adventure",
+    "caption": "Swamp boat adventure in New Orleans",
     "date": "2025-07-11 12:26:34",
     "original_filename": "swamp_boat.jpg"
   },
   {
     "src": "images/spotted_cat.jpg",
     "category": "couple",
-    "caption": "Meeting a spotted friend",
+    "caption": "Meeting a spotted friend for some Jazz with the Chris Christy Quartet",
     "date": "2025-07-12 18:06:03",
     "original_filename": "spotted_cat.jpg"
   },
   {
     "src": "images/cat_museum.jpg",
     "category": "couple",
-    "caption": "Fun at the cat museum",
+    "caption": "Fun at the cat museum with our furry friends",
     "date": null,
     "original_filename": "cat_museum.heic"
   },
