@@ -170,9 +170,28 @@ document.addEventListener('DOMContentLoaded', function() {
         const lightbox = document.getElementById('lightbox');
         const lightboxImg = document.getElementById('lightbox-img');
         const lightboxCaption = document.getElementById('lightbox-caption');
-        
-        lightboxImg.src = filteredImages[index].src;
-        lightboxCaption.textContent = filteredImages[index].caption;
+        const lightboxMetadata = document.getElementById('lightbox-metadata');
+
+        const photoData = filteredImages[index];
+
+        lightboxImg.src = photoData.src;
+        lightboxCaption.textContent = photoData.caption;
+
+        // Build metadata display
+        let metadataHTML = '';
+
+        if (photoData.date) {
+            const date = new Date(photoData.date);
+            const formattedDate = date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+            metadataHTML += `<div class="metadata-item"><span class="metadata-label">Date:</span> ${formattedDate}</div>`;
+        }
+
+        lightboxMetadata.innerHTML = metadataHTML;
+
         lightbox.style.display = 'block';
         document.body.style.overflow = 'hidden';
     }
@@ -185,18 +204,36 @@ document.addEventListener('DOMContentLoaded', function() {
     
     function navigateLightbox(direction) {
         currentImageIndex += direction;
-        
+
         if (currentImageIndex >= filteredImages.length) {
             currentImageIndex = 0;
         } else if (currentImageIndex < 0) {
             currentImageIndex = filteredImages.length - 1;
         }
-        
+
         const lightboxImg = document.getElementById('lightbox-img');
         const lightboxCaption = document.getElementById('lightbox-caption');
-        
-        lightboxImg.src = filteredImages[currentImageIndex].src;
-        lightboxCaption.textContent = filteredImages[currentImageIndex].caption;
+        const lightboxMetadata = document.getElementById('lightbox-metadata');
+
+        const photoData = filteredImages[currentImageIndex];
+
+        lightboxImg.src = photoData.src;
+        lightboxCaption.textContent = photoData.caption;
+
+        // Build metadata display
+        let metadataHTML = '';
+
+        if (photoData.date) {
+            const date = new Date(photoData.date);
+            const formattedDate = date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+            metadataHTML += `<div class="metadata-item"><span class="metadata-label">Date:</span> ${formattedDate}</div>`;
+        }
+
+        lightboxMetadata.innerHTML = metadataHTML;
     }
     
     // Initialize gallery when page loads
@@ -242,10 +279,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     day: 'numeric'
                 });
                 metadataHTML += `<div class="metadata-item"><span class="metadata-label">Date:</span> ${formattedDate}</div>`;
-            }
-
-            if (photoData.original_filename && photoData.original_filename !== photoData.src.split('/').pop()) {
-                metadataHTML += `<div class="metadata-item"><span class="metadata-label">Original:</span> ${photoData.original_filename}</div>`;
             }
 
             lightboxMetadata.innerHTML = metadataHTML;

@@ -147,7 +147,7 @@
     "original_filename": "dinner_date.jpg"
   },
   {
-    "src": "images/new_years_eve.jpg.jpg",
+    "src": "images/new_years_eve.jpg",
     "category": "couple",
     "caption": "Rib on our first New years Eve, when she really found out I can cook",
     "date": "2023-12-31",
@@ -362,5 +362,89 @@
     "caption": "Nashville adventure",
     "date": null,
     "original_filename": "nashville_parthanon.heic"
+  },
+  {
+    "src": "images/christmas_in_knoxville.jpg",
+    "category": "couple",
+    "caption": "Christmas in Knoxville",
+    "date": null,
+    "original_filename": "christmas_in_knoxville.jpg"
+  },
+  {
+    "src": "images/ishi_wants_a_rock.jpg",
+    "category": "engagement",
+    "caption": "Ishi wants a rock too",
+    "date": "2025-05-02",
+    "original_filename": "ishi_wants_a_rock.jpg"
+  },
+  {
+    "src": "images/new_years_eve.jpg",
+    "category": "couple",
+    "caption": "New Years Eve celebration",
+    "date": "2023-12-31",
+    "original_filename": "new_years_eve.jpg"
+  },
+  {
+    "src": "images/valentines_day_nashville.jpg",
+    "category": "couple",
+    "caption": "Valentines Day in Nashville",
+    "date": "2024-02-14",
+    "original_filename": "valentines_day_nashville.jpg"
+  },
+  {
+    "src": "images/cats/christmas_phil.jpg",
+    "category": "cats",
+    "caption": "Phil at Christmas",
+    "date": null,
+    "original_filename": "christmas_phil.jpg"
+  },
+  {
+    "src": "images/cats/madam_curled_up.jpg",
+    "category": "cats",
+    "caption": "Madam curled up",
+    "date": null,
+    "original_filename": "madam_curled_up.jpg"
+  },
+  {
+    "src": "images/cats/madam_sitting_pretty.jpg",
+    "category": "cats",
+    "caption": "Madam sitting pretty",
+    "date": null,
+    "original_filename": "madam_sitting_pretty.jpg"
+  },
+  {
+    "src": "images/cats/phil_and_oki_christmas.jpg",
+    "category": "cats",
+    "caption": "Phil and Oki at Christmas",
+    "date": null,
+    "original_filename": "phil_and_oki_christmas.jpg"
+  },
+  {
+    "src": "images/cats/phil_prim_and_proper.jpg",
+    "category": "cats",
+    "caption": "Phil prim and proper",
+    "date": null,
+    "original_filename": "phil_prim_and_proper.jpg"
+  },
+  {
+    "src": "images/cats/snoopy_madam_christmas.jpg",
+    "category": "cats",
+    "caption": "Snoopy and Madam at Christmas",
+    "date": null,
+    "original_filename": "snoopy_madam_christmas.jpg"
+  },
+  {
+    "src": "images/cats/snoopy_madam_sleeping.jpg",
+    "category": "cats",
+    "caption": "Snoopy and Madam sleeping",
+    "date": null,
+    "original_filename": "snoopy_madam_sleeping.jpg"
+  },
+  {
+    "src": "images/cats/snoopy_streched_out.jpg",
+    "category": "cats",
+    "caption": "Snoopy stretched out",
+    "date": null,
+    "original_filename": "snoopy_streched_out.jpg"
   }
 ]
